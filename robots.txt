@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://diefeshorb.github.io/sitemap
+Sitemap: https://diefeshorb.github.io/app/sitemap
+Sitemap: https://diefeshorb.github.io/assets/sitemap
+Sitemap: https://diefeshorb.github.io/css/sitemap
+Sitemap: https://diefeshorb.github.io/includes/sitemap
+Sitemap: https://diefeshorb.github.io/item/sitemap
+Sitemap: https://diefeshorb.github.io/src/sitemap
